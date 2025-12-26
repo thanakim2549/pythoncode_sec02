@@ -1,2 +1,11 @@
-# pythoncode_sec02
-เก็บโค้ดส่งงานอาจารย์
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
